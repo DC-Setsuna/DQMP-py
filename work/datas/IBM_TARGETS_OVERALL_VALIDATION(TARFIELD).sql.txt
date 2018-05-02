@@ -1,0 +1,1 @@
+{"TIMEPERIOD_ID": "16070e86-acd8-da28-40f7-53d309d849ac", "REVENUE_TYPE": "Transactional", "TOTALS.ID": "FH00XZ0Atv6ZjUnvMAwGaJmZpwY=        ", "NODE_ID": "SW-05-MEA-Analytics-SA-0001         ", "TARGET_AMOUNT": "0 ! = 1945", "ID": "4f2b9bab-5d50-a8b0-92f1-59c0bf4415f1"}

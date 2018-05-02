@@ -1,0 +1,1 @@
+{"ROADMAP1": "2d252ebb-ca4f-f034-f4c0-597d9669ad23", "RLI_ID": "62d24a67-4b7a-f00b-503c-5908473598a3", "LIO_1": 0, "DEAL_SIZE_ID": "SMALL", "REVENUE_TYPE": "Transactional", "OPPORTUNITY_ID": "CF-9SZ46HJ                          "}

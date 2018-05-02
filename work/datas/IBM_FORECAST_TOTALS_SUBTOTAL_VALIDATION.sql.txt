@@ -1,0 +1,7 @@
+{"REVENUE_TYPE": "Signings-ACV", "NODE_ID": "IDS_01_NA_Commercial                ", "FDIM_DATE_ID": "20171001-S2F                        "}
+{"REVENUE_TYPE": "Signings-ACV", "NODE_ID": "S&D LA_05_8B_1080                   ", "FDIM_DATE_ID": "20180101-S2F                        "}
+{"REVENUE_TYPE": "Signings", "NODE_ID": "S&D_05_6G_0894                      ", "FDIM_DATE_ID": "20180401-S2F                        "}
+{"REVENUE_TYPE": "Transactional", "NODE_ID": "S&D_AP_KR_ESU-Electronic            ", "FDIM_DATE_ID": "20180101-S2F                        "}
+{"REVENUE_TYPE": "Transactional", "NODE_ID": "SWG-04-NASECNA-0001                 ", "FDIM_DATE_ID": "20180701-S2F                        "}
+{"REVENUE_TYPE": "Transactional", "NODE_ID": "SWG-05-LABR-0017                    ", "FDIM_DATE_ID": "20180101-S2F                        "}
+{"REVENUE_TYPE": "Transactional", "NODE_ID": "SWG-05-NASECNA-0001                 ", "FDIM_DATE_ID": "20180701-S2F                        "}
